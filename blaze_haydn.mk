@@ -17,7 +17,7 @@ $(call inherit-product, vendor/blaze/config/common_full_phone.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := haydn
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := M2012K11GI
+PRODUCT_MODEL := M2012K11I
 PRODUCT_NAME := blaze_haydn
 
 PRODUCT_SYSTEM_NAME := haydn_global
